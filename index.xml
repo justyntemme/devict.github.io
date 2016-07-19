@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>devICT</title>
+    <link>http://devict.org/</link>
+    <description>Recent content on devICT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Jul 2016 14:52:11 -0500</lastBuildDate>
+    <atom:link href="http://devict.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>http://devict.org/about/</link>
+      <pubDate>Mon, 18 Jul 2016 14:52:11 -0500</pubDate>
+      
+      <guid>http://devict.org/about/</guid>
+      <description>
+
+&lt;h1 id=&#34;a-community-for-wichita-developers&#34;&gt;A community for Wichita developers&lt;/h1&gt;
+
+&lt;p&gt;devICT is a local community for developers in Wichita, KS. We are a group of
+like-minded web developers gathering to help each other better ourselves as
+professionals and hobbyists alike. devICT welcomes front-end developers,
+back-end developers, designers, and all others.&lt;/p&gt;
+
+&lt;p&gt;Come join us to get real-world examples of new technologies that you can
+implement into your workflow today. By attending the events you will become a
+better developer and will meet other like-minded people from the ever-growing
+developer community in Wichita.&lt;/p&gt;
+
+&lt;h1 id=&#34;a-makeict-organization&#34;&gt;A MakeICT organization&lt;/h1&gt;
+
+&lt;p&gt;devICT is a branch of the MakeICT organization that focuses on making things
+with code. MakeICT is an incredible group whose aim is to provide local makers
+with the facilities, equipment, knowledge and community it takes to make
+awesome things.&lt;/p&gt;
+
+&lt;p&gt;If you enjoy devICT or anything it provides, please take the time to check out
+MakeICT as well and attend some events.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Code of Conduct</title>
+      <link>http://devict.org/conduct/</link>
+      <pubDate>Mon, 18 Jul 2016 14:52:11 -0500</pubDate>
+      
+      <guid>http://devict.org/conduct/</guid>
+      <description>
+
+&lt;h1 id=&#34;code-of-conduct-small-amp-anti-harassment-policy-small&#34;&gt;Code of Conduct &lt;small&gt;&amp;amp; Anti-Harassment Policy&lt;/small&gt;&lt;/h1&gt;
+
+&lt;p&gt;devICT is dedicated to providing a safe and harassment-free experience for
+everyone, regardless of gender, gender identity and expression, sexual
+orientation, disability, physical appearance, body size, race, age, religion,
+technical ability, or software preferences. We do not tolerate harassment in
+any form. Sexual language and imagery is not appropriate for any devICT meetup
+or chatroom.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Anyone violating these rules may be asked to leave the meetup or chatroom at
+the discretion of devICT organizers.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Harassment includes&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Offensive comments related to gender, age, sexual orientation, disability,
+physical appearance, body size, race, religion, technical ability or software
+preferences&lt;/li&gt;
+&lt;li&gt;Sexual images in public spaces&lt;/li&gt;
+&lt;li&gt;Deliberate intimidation, stalking, following, harassing photography or recording&lt;/li&gt;
+&lt;li&gt;Sustained disruption of talks or other events&lt;/li&gt;
+&lt;li&gt;Inappropriate physical contact&lt;/li&gt;
+&lt;li&gt;Unwelcome sexual attention.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Members asked to stop any harassing behavior are expected to comply immediately.&lt;/p&gt;
+
+&lt;p&gt;Sponsors, organizers, and speakers are also subject to the anti-harassment policy.&lt;/p&gt;
+
+&lt;p&gt;This anti-harassment policy is based on the example policy from the &lt;a href=&#34;http://geekfeminism.wikia.com/wiki/Community_anti-harassment&#34;&gt;Geek
+Feminism wiki&lt;/a&gt;,
+created by the Geek Feminism community.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Events</title>
+      <link>http://devict.org/events/</link>
+      <pubDate>Mon, 18 Jul 2016 14:52:11 -0500</pubDate>
+      
+      <guid>http://devict.org/events/</guid>
+      <description>
+
+&lt;h1 id=&#34;recurring-events&#34;&gt;Recurring Events&lt;/h1&gt;
+
+&lt;h4 id=&#34;we-have-several-recurring-events-so-there-s-always-something-to-do-be-sure-to-join-us-on-meetup-to-stay-informed&#34;&gt;We have several recurring events so there&amp;rsquo;s always something to do. Be sure to join us on Meetup to stay informed!&lt;/h4&gt;
+
+&lt;div class=&#34;row&#34;&gt;
+&lt;div class=&#34;col-sm-3&#34;&gt;
+  &lt;h3&gt;Dev Talks&lt;/h3&gt;
+  &lt;p&gt;Monthly, every last Thursday.&lt;/p&gt;
+  &lt;p&gt;This event features a presentation on various development related topics. This is an opportunity to share knowledge and get exposure to all kinds of new technologies, languages, tools, and more.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;col-sm-3&#34;&gt;
+  &lt;h3&gt;Level Up&lt;/h3&gt;
+  &lt;p&gt;Bi-weekly, every other Monday.&lt;/p&gt;
+  &lt;p&gt;Level Up is your opportunity to learn how to code and improve your skills. We have mentors on hand who can answer questions and provide guidance to learning resources online.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;col-sm-3&#34;&gt;
+  &lt;h3&gt;Code &amp; Coffee&lt;/h3&gt;
+  &lt;p&gt;Thursday mornings at 7:00am.&lt;/p&gt;
+  &lt;p&gt;Start your day off right with this informal get together. Bring your laptop, enjoy some coffee, and hang out with other developers. Come whenever, leave whenever. Oh, and sometimes there are donuts.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;col-sm-3&#34;&gt;
+  &lt;h3&gt;Hangout&lt;/h3&gt;
+  &lt;p&gt;Monthly, every second Tuesday.&lt;/p&gt;
+  &lt;p&gt;The Hangout is a social event and an opportunity to hang out, talk code (or not) and enjoy some company. Sometimes we make things. Sometimes we have a beer or two. Always a good time.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&#34;upcoming-events&#34;&gt;Upcoming Events&lt;/h1&gt;
+
+&lt;p&gt;TODO&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Xamarin Introduction</title>
+      <link>http://devict.org/video/xamarin-introduction/</link>
+      <pubDate>Thu, 26 May 2016 20:18:25 -0500</pubDate>
+      
+      <guid>http://devict.org/video/xamarin-introduction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WWC Intro To Go Workshop</title>
+      <link>http://devict.org/video/wwc-intro-to-go-workshop/</link>
+      <pubDate>Wed, 04 May 2016 20:41:08 -0500</pubDate>
+      
+      <guid>http://devict.org/video/wwc-intro-to-go-workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Becoming A Jr. Developer</title>
+      <link>http://devict.org/video/becoming-a-jr-developer/</link>
+      <pubDate>Thu, 28 Apr 2016 20:14:17 -0500</pubDate>
+      
+      <guid>http://devict.org/video/becoming-a-jr-developer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lex it, Parse it, Generate it, Run it</title>
+      <link>http://devict.org/video/lex-it-parse-it-generate-it-run-it/</link>
+      <pubDate>Thu, 31 Mar 2016 20:20:40 -0500</pubDate>
+      
+      <guid>http://devict.org/video/lex-it-parse-it-generate-it-run-it/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile Quick Talks</title>
+      <link>http://devict.org/video/mobile-quick-talks/</link>
+      <pubDate>Thu, 25 Feb 2016 20:21:31 -0600</pubDate>
+      
+      <guid>http://devict.org/video/mobile-quick-talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PostgREST</title>
+      <link>http://devict.org/video/postgrest/</link>
+      <pubDate>Thu, 28 Jan 2016 21:18:44 -0600</pubDate>
+      
+      <guid>http://devict.org/video/postgrest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lightning Talks Sep 15</title>
+      <link>http://devict.org/video/lightning-talks-sep-15/</link>
+      <pubDate>Thu, 24 Sep 2015 20:47:11 -0500</pubDate>
+      
+      <guid>http://devict.org/video/lightning-talks-sep-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fanning the Embers of your Web App</title>
+      <link>http://devict.org/video/fanning-the-embers-of-your-web-app/</link>
+      <pubDate>Thu, 27 Aug 2015 20:23:32 -0500</pubDate>
+      
+      <guid>http://devict.org/video/fanning-the-embers-of-your-web-app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Set Phasers to Game Development</title>
+      <link>http://devict.org/video/set-phasers-to-game-development/</link>
+      <pubDate>Thu, 30 Jul 2015 20:14:36 -0500</pubDate>
+      
+      <guid>http://devict.org/video/set-phasers-to-game-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Go</title>
+      <link>http://devict.org/video/getting-started-with-go/</link>
+      <pubDate>Thu, 23 Jul 2015 20:53:21 -0500</pubDate>
+      
+      <guid>http://devict.org/video/getting-started-with-go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robots - Bringing your code into the real world</title>
+      <link>http://devict.org/video/robots--bringing-your-code-into-the-real-world/</link>
+      <pubDate>Fri, 26 Jun 2015 18:02:49 -0500</pubDate>
+      
+      <guid>http://devict.org/video/robots--bringing-your-code-into-the-real-world/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardware Hacking with Node and Johnny-Five</title>
+      <link>http://devict.org/video/hardware-hacking-with-node-and-johnnyfive/</link>
+      <pubDate>Thu, 30 Apr 2015 20:18:29 -0500</pubDate>
+      
+      <guid>http://devict.org/video/hardware-hacking-with-node-and-johnnyfive/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
