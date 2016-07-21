@@ -6,8 +6,53 @@
     <description>Recent content on devICT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Jul 2016 14:52:11 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 21 Jul 2016 15:33:19 -0500</lastBuildDate>
     <atom:link href="http://devict.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>support</title>
+      <link>http://devict.org/support/</link>
+      <pubDate>Thu, 21 Jul 2016 15:33:19 -0500</pubDate>
+      
+      <guid>http://devict.org/support/</guid>
+      <description>
+
+&lt;h1 id=&#34;support&#34;&gt;Support&lt;/h1&gt;
+
+&lt;p&gt;Membership in our organization is free as are most of our events. To keep our
+services free we depend on donations from the community. To that end there are
+multiple ways to support us.&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt;Donate Via PayPal&lt;/h2&gt;
+&lt;p&gt;
+  If you have a PayPal account and wish to make either a one-time or monthly
+  donation you can do that here: PayPal will collect 2.9% plus $0.30 of your
+  donation.
+&lt;/p&gt;
+&lt;form action=&#34;https://www.paypal.com/cgi-bin/webscr&#34; method=&#34;post&#34; target=&#34;_top&#34;&gt;
+  &lt;input type=&#34;hidden&#34; name=&#34;cmd&#34; value=&#34;_s-xclick&#34;&gt;
+  &lt;input type=&#34;hidden&#34; name=&#34;hosted_button_id&#34; value=&#34;TV7Y785BF7V4G&#34;&gt;
+  &lt;input type=&#34;image&#34; src=&#34;https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif&#34; border=&#34;0&#34; name=&#34;submit&#34; alt=&#34;PayPal - The safer, easier way to pay online!&#34;&gt;
+  &lt;img alt=&#34;&#34; border=&#34;0&#34; src=&#34;https://www.paypalobjects.com/en_US/i/scr/pixel.gif&#34; width=&#34;1&#34; height=&#34;1&#34;&gt;
+&lt;/form&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt;Donate Via Patreon&lt;/h2&gt;
+&lt;p&gt;
+  If you do not have a PayPal account you can create a recurring donation via
+  Patreon. The fees they take are higher than PayPal but you don&amp;rsquo;t have to have
+  a PayPal account.
+&lt;/p&gt;
+&lt;p&gt;
+  To donate visit &lt;a href=&#34;https://patreon.com/devict&#34;&gt;devICT on Patreon&lt;/a&gt;.
+&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt;Referral Codes&lt;/h2&gt;
+&lt;p&gt;
+  If you were planning to use Digital Ocean you can try to sign up using our &lt;a
+  href=&#34;https://www.digitalocean.com/?refcode=0bc5d355b0fe&#34;&gt;referral code&lt;/a&gt;.
+&lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>About</title>
@@ -224,15 +269,6 @@ created by the Geek Feminism community.&lt;/p&gt;
       <pubDate>Fri, 26 Jun 2015 18:02:49 -0500</pubDate>
       
       <guid>http://devict.org/videos/robots--bringing-your-code-into-the-real-world/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hardware Hacking with Node and Johnny-Five</title>
-      <link>http://devict.org/videos/hardware-hacking-with-node-and-johnnyfive/</link>
-      <pubDate>Thu, 30 Apr 2015 20:18:29 -0500</pubDate>
-      
-      <guid>http://devict.org/videos/hardware-hacking-with-node-and-johnnyfive/</guid>
       <description></description>
     </item>
     
