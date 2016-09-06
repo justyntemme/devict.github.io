@@ -2,12 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>devICT</title>
-    <link>http://devict.org/</link>
+    <link>http://devict.org/index.xml</link>
     <description>Recent content on devICT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Jul 2016 15:33:19 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 17 Aug 2016 08:24:28 -0500</lastBuildDate>
     <atom:link href="http://devict.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Kotlin From Russia With Love</title>
+      <link>http://devict.org/videos/kotlin-from-russia-with-love/</link>
+      <pubDate>Wed, 17 Aug 2016 08:24:28 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/kotlin-from-russia-with-love/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elixir Is Fun</title>
+      <link>http://devict.org/videos/elixir-is-fun/</link>
+      <pubDate>Thu, 28 Jul 2016 19:00:00 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/elixir-is-fun/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>support</title>
@@ -20,14 +38,26 @@
 &lt;h1 id=&#34;support&#34;&gt;Support&lt;/h1&gt;
 
 &lt;p&gt;Membership in our organization is free as are most of our events. To keep our
-services free we depend on donations from the community. To that end there are
-multiple ways to support us.&lt;/p&gt;
+services free we depend on donations from the community.&lt;/p&gt;
 
-&lt;p&gt;&lt;h2&gt;Donate Via PayPal&lt;/h2&gt;
+&lt;div id=&#34;details&#34; class=&#34;hidden&#34;&gt;
+
+Our monthly costs average about &lt;strong id=&#34;payments-sum&#34;&gt;&lt;/strong&gt;.
+Our recurring donations are about &lt;strong id=&#34;donations-sum&#34;&gt;&lt;/strong&gt; from &lt;strong id=&#34;donations-count&#34;&gt;&lt;/strong&gt; donors.
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;h2&gt;Recurring Donations&lt;/h2&gt;
 &lt;p&gt;
-  If you have a PayPal account and wish to make either a one-time or monthly
-  donation you can do that here: PayPal will collect 2.9% plus $0.30 of your
-  donation.
+  You can create a recurring donation by creating an account on
+  Patreon. To donate visit &lt;a href=&#34;https://patreon.com/devict&#34;
+  class=&#34;btn btn-success&#34;&gt;devICT on Patreon&lt;/a&gt;
+&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt;One-time Donations&lt;/h2&gt;
+&lt;p&gt;
+  If you want to help but do not want to set up a recurring donation
+  you can give a single amount using PayPal.
 &lt;/p&gt;
 &lt;form action=&#34;https://www.paypal.com/cgi-bin/webscr&#34; method=&#34;post&#34; target=&#34;_top&#34;&gt;
   &lt;input type=&#34;hidden&#34; name=&#34;cmd&#34; value=&#34;_s-xclick&#34;&gt;
@@ -35,16 +65,6 @@ multiple ways to support us.&lt;/p&gt;
   &lt;input type=&#34;image&#34; src=&#34;https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif&#34; border=&#34;0&#34; name=&#34;submit&#34; alt=&#34;PayPal - The safer, easier way to pay online!&#34;&gt;
   &lt;img alt=&#34;&#34; border=&#34;0&#34; src=&#34;https://www.paypalobjects.com/en_US/i/scr/pixel.gif&#34; width=&#34;1&#34; height=&#34;1&#34;&gt;
 &lt;/form&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h2&gt;Donate Via Patreon&lt;/h2&gt;
-&lt;p&gt;
-  If you do not have a PayPal account you can create a recurring donation via
-  Patreon. The fees they take are higher than PayPal but you don&amp;rsquo;t have to have
-  a PayPal account.
-&lt;/p&gt;
-&lt;p&gt;
-  To donate visit &lt;a href=&#34;https://patreon.com/devict&#34;&gt;devICT on Patreon&lt;/a&gt;.
-&lt;/p&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;h2&gt;Referral Codes&lt;/h2&gt;
 &lt;p&gt;
@@ -251,24 +271,6 @@ created by the Geek Feminism community.&lt;/p&gt;
       <pubDate>Thu, 30 Jul 2015 20:14:36 -0500</pubDate>
       
       <guid>http://devict.org/videos/set-phasers-to-game-development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Getting Started with Go</title>
-      <link>http://devict.org/videos/getting-started-with-go/</link>
-      <pubDate>Thu, 23 Jul 2015 20:53:21 -0500</pubDate>
-      
-      <guid>http://devict.org/videos/getting-started-with-go/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robots - Bringing your code into the real world</title>
-      <link>http://devict.org/videos/robots--bringing-your-code-into-the-real-world/</link>
-      <pubDate>Fri, 26 Jun 2015 18:02:49 -0500</pubDate>
-      
-      <guid>http://devict.org/videos/robots--bringing-your-code-into-the-real-world/</guid>
       <description></description>
     </item>
     
