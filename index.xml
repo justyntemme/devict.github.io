@@ -40,13 +40,15 @@
 &lt;p&gt;Membership in our organization is free as are most of our events. To keep our
 services free we depend on donations from the community.&lt;/p&gt;
 
-&lt;div id=&#34;details&#34; class=&#34;hidden&#34;&gt;
+&lt;div id=&#34;loading&#34; class=&#34;text-center&#34;&gt;
+  &lt;i class=&#34;fa fa-cog fa-spin fa-5x&#34;&gt;&lt;/i&gt;
+&lt;/div&gt;
 
+&lt;div id=&#34;details&#34; class=&#34;hidden&#34;&gt;
 Our monthly costs average about &lt;strong id=&#34;costs-sum&#34;&gt;&lt;/strong&gt;.
 Our recurring donations are about &lt;strong id=&#34;donations-sum&#34;&gt;&lt;/strong&gt; from &lt;strong id=&#34;donations-count&#34;&gt;&lt;/strong&gt; donors.
 
 &lt;canvas id=&#34;chart&#34; width=&#34;200&#34; height=&#34;50&#34; class=&#34;centered&#34;&gt;&lt;/canvas&gt;
-
 &lt;/div&gt;
 
 &lt;p&gt;&lt;h2&gt;Recurring Donations&lt;/h2&gt;
