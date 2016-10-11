@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>devICT</title>
+    <link>http://devict.org/tags/sailsjs/index.xml</link>
+    <description>Recent content on devICT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://devict.org/tags/sailsjs/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Realtime Web Apps w/ Sails.js</title>
+      <link>http://devict.org/videos/realtime-web-apps-w-sailsjs/</link>
+      <pubDate>Thu, 21 Nov 2013 21:38:52 -0600</pubDate>
+      
+      <guid>http://devict.org/videos/realtime-web-apps-w-sailsjs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

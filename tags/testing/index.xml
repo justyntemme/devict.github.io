@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>devICT</title>
+    <link>http://devict.org/tags/testing/index.xml</link>
+    <description>Recent content on devICT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://devict.org/tags/testing/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Xamarin Introduction</title>
+      <link>http://devict.org/videos/xamarin-introduction/</link>
+      <pubDate>Thu, 26 May 2016 20:18:25 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/xamarin-introduction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intelligent GUI Automation with Sikuli</title>
+      <link>http://devict.org/videos/intelligent-gui-automation-with-sikuli/</link>
+      <pubDate>Thu, 29 Jan 2015 22:57:25 -0600</pubDate>
+      
+      <guid>http://devict.org/videos/intelligent-gui-automation-with-sikuli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test Driven Development</title>
+      <link>http://devict.org/videos/test-driven-development/</link>
+      <pubDate>Thu, 28 Aug 2014 20:43:28 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/test-driven-development/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

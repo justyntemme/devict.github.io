@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>devICT</title>
+    <link>http://devict.org/tags/go/index.xml</link>
+    <description>Recent content on devICT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://devict.org/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>WWC Intro To Go Workshop</title>
+      <link>http://devict.org/videos/wwc-intro-to-go-workshop/</link>
+      <pubDate>Wed, 04 May 2016 20:41:08 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/wwc-intro-to-go-workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Go</title>
+      <link>http://devict.org/videos/getting-started-with-go/</link>
+      <pubDate>Thu, 23 Jul 2015 20:53:21 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/getting-started-with-go/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

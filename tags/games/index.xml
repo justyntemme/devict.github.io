@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>devICT</title>
+    <link>http://devict.org/tags/games/index.xml</link>
+    <description>Recent content on devICT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://devict.org/tags/games/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Set Phasers to Game Development</title>
+      <link>http://devict.org/videos/set-phasers-to-game-development/</link>
+      <pubDate>Thu, 30 Jul 2015 20:14:36 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/set-phasers-to-game-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Game Design with C#</title>
+      <link>http://devict.org/videos/game-design-with-c/</link>
+      <pubDate>Thu, 29 Aug 2013 20:22:29 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/game-design-with-c/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

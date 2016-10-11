@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>devICT</title>
+    <link>http://devict.org/tags/gruntjs/index.xml</link>
+    <description>Recent content on devICT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://devict.org/tags/gruntjs/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Intro to Grunt.js</title>
+      <link>http://devict.org/videos/intro-to-gruntjs/</link>
+      <pubDate>Thu, 30 Jan 2014 19:01:22 -0600</pubDate>
+      
+      <guid>http://devict.org/videos/intro-to-gruntjs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

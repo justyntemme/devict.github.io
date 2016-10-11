@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>devICT</title>
+    <link>http://devict.org/tags/automation/index.xml</link>
+    <description>Recent content on devICT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://devict.org/tags/automation/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Intelligent GUI Automation with Sikuli</title>
+      <link>http://devict.org/videos/intelligent-gui-automation-with-sikuli/</link>
+      <pubDate>Thu, 29 Jan 2015 22:57:25 -0600</pubDate>
+      
+      <guid>http://devict.org/videos/intelligent-gui-automation-with-sikuli/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

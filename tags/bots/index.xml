@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>devICT</title>
+    <link>http://devict.org/tags/bots/index.xml</link>
+    <description>Recent content on devICT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://devict.org/tags/bots/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Robots - Bringing your code into the real world</title>
+      <link>http://devict.org/videos/robots--bringing-your-code-into-the-real-world/</link>
+      <pubDate>Fri, 26 Jun 2015 18:02:49 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/robots--bringing-your-code-into-the-real-world/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
