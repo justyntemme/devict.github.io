@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Videos-rsses on devICT</title>
+    <title>Videos on devICT</title>
     <link>http://devict.org/videos/index.xml</link>
-    <description>Recent content in Videos-rsses on devICT</description>
+    <description>Recent content in Videos on devICT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Aug 2016 08:24:28 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 27 Oct 2016 19:00:00 -0500</lastBuildDate>
     <atom:link href="http://devict.org/videos/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Web Automation Using Selenium</title>
+      <link>http://devict.org/videos/web-automation-using-selenium/</link>
+      <pubDate>Thu, 27 Oct 2016 19:00:00 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/web-automation-using-selenium/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Kotlin From Russia With Love</title>
@@ -132,15 +141,6 @@
       <pubDate>Thu, 30 Apr 2015 20:18:29 -0500</pubDate>
       
       <guid>http://devict.org/videos/hardware-hacking-with-node-and-johnnyfive/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vim and Emacs Chat: Part 2: Emacs</title>
-      <link>http://devict.org/videos/vim-and-emacs-chat-part-2-emacs/</link>
-      <pubDate>Thu, 26 Mar 2015 21:30:39 -0500</pubDate>
-      
-      <guid>http://devict.org/videos/vim-and-emacs-chat-part-2-emacs/</guid>
       <description></description>
     </item>
     

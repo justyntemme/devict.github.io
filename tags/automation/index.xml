@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>devICT</title>
+    <title>Automation on devICT</title>
     <link>http://devict.org/tags/automation/index.xml</link>
-    <description>Recent content on devICT</description>
+    <description>Recent content in Automation on devICT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="http://devict.org/tags/automation/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Web Automation Using Selenium</title>
+      <link>http://devict.org/videos/web-automation-using-selenium/</link>
+      <pubDate>Thu, 27 Oct 2016 19:00:00 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/web-automation-using-selenium/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Intelligent GUI Automation with Sikuli</title>

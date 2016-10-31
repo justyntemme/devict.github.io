@@ -6,8 +6,17 @@
     <description>Recent content on devICT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Aug 2016 08:24:28 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 27 Oct 2016 19:00:00 -0500</lastBuildDate>
     <atom:link href="http://devict.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Web Automation Using Selenium</title>
+      <link>http://devict.org/videos/web-automation-using-selenium/</link>
+      <pubDate>Thu, 27 Oct 2016 19:00:00 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/web-automation-using-selenium/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Kotlin From Russia With Love</title>
@@ -312,15 +321,6 @@ created by the Geek Feminism community.&lt;/p&gt;
       <pubDate>Thu, 27 Aug 2015 20:23:32 -0500</pubDate>
       
       <guid>http://devict.org/videos/fanning-the-embers-of-your-web-app/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Set Phasers to Game Development</title>
-      <link>http://devict.org/videos/set-phasers-to-game-development/</link>
-      <pubDate>Thu, 30 Jul 2015 20:14:36 -0500</pubDate>
-      
-      <guid>http://devict.org/videos/set-phasers-to-game-development/</guid>
       <description></description>
     </item>
     
