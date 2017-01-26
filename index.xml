@@ -19,6 +19,15 @@
     </item>
     
     <item>
+      <title>An Informal Intro to Docker</title>
+      <link>http://devict.org/videos/an-informal-intro-to-docker/</link>
+      <pubDate>Thu, 29 Sep 2016 18:42:00 -0600</pubDate>
+      
+      <guid>http://devict.org/videos/an-informal-intro-to-docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Kotlin From Russia With Love</title>
       <link>http://devict.org/videos/kotlin-from-russia-with-love/</link>
       <pubDate>Wed, 17 Aug 2016 08:24:28 -0500</pubDate>
@@ -251,6 +260,15 @@ created by the Geek Feminism community.&lt;/p&gt;
     </item>
     
     <item>
+      <title>React Flux and Immutable JS</title>
+      <link>http://devict.org/videos/react-flux-and-immutable-js/</link>
+      <pubDate>Thu, 30 Jun 2016 18:30:00 -0600</pubDate>
+      
+      <guid>http://devict.org/videos/react-flux-and-immutable-js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Xamarin Introduction</title>
       <link>http://devict.org/videos/xamarin-introduction/</link>
       <pubDate>Thu, 26 May 2016 20:18:25 -0500</pubDate>
@@ -301,24 +319,6 @@ created by the Geek Feminism community.&lt;/p&gt;
       <pubDate>Thu, 28 Jan 2016 21:18:44 -0600</pubDate>
       
       <guid>http://devict.org/videos/postgrest/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lightning Talks Sep 15</title>
-      <link>http://devict.org/videos/lightning-talks-sep-15/</link>
-      <pubDate>Thu, 24 Sep 2015 20:47:11 -0500</pubDate>
-      
-      <guid>http://devict.org/videos/lightning-talks-sep-15/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fanning the Embers of your Web App</title>
-      <link>http://devict.org/videos/fanning-the-embers-of-your-web-app/</link>
-      <pubDate>Thu, 27 Aug 2015 20:23:32 -0500</pubDate>
-      
-      <guid>http://devict.org/videos/fanning-the-embers-of-your-web-app/</guid>
       <description></description>
     </item>
     

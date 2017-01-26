@@ -19,6 +19,15 @@
     </item>
     
     <item>
+      <title>An Informal Intro to Docker</title>
+      <link>http://devict.org/videos/an-informal-intro-to-docker/</link>
+      <pubDate>Thu, 29 Sep 2016 18:42:00 -0600</pubDate>
+      
+      <guid>http://devict.org/videos/an-informal-intro-to-docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Kotlin From Russia With Love</title>
       <link>http://devict.org/videos/kotlin-from-russia-with-love/</link>
       <pubDate>Wed, 17 Aug 2016 08:24:28 -0500</pubDate>
@@ -33,6 +42,15 @@
       <pubDate>Thu, 28 Jul 2016 19:00:00 -0500</pubDate>
       
       <guid>http://devict.org/videos/elixir-is-fun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>React Flux and Immutable JS</title>
+      <link>http://devict.org/videos/react-flux-and-immutable-js/</link>
+      <pubDate>Thu, 30 Jun 2016 18:30:00 -0600</pubDate>
+      
+      <guid>http://devict.org/videos/react-flux-and-immutable-js/</guid>
       <description></description>
     </item>
     
@@ -123,24 +141,6 @@
       <pubDate>Thu, 23 Jul 2015 20:53:21 -0500</pubDate>
       
       <guid>http://devict.org/videos/getting-started-with-go/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robots - Bringing your code into the real world</title>
-      <link>http://devict.org/videos/robots--bringing-your-code-into-the-real-world/</link>
-      <pubDate>Fri, 26 Jun 2015 18:02:49 -0500</pubDate>
-      
-      <guid>http://devict.org/videos/robots--bringing-your-code-into-the-real-world/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hardware Hacking with Node and Johnny-Five</title>
-      <link>http://devict.org/videos/hardware-hacking-with-node-and-johnnyfive/</link>
-      <pubDate>Thu, 30 Apr 2015 20:18:29 -0500</pubDate>
-      
-      <guid>http://devict.org/videos/hardware-hacking-with-node-and-johnnyfive/</guid>
       <description></description>
     </item>
     

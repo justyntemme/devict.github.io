@@ -7,6 +7,11 @@
   </url>
   
   <url>
+    <loc>http://devict.org/videos/an-informal-intro-to-docker/</loc>
+    <lastmod>2016-09-29T18:42:00-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://devict.org/videos/kotlin-from-russia-with-love/</loc>
     <lastmod>2016-08-17T08:24:28-05:00</lastmod>
   </url>
@@ -34,6 +39,11 @@
   <url>
     <loc>http://devict.org/events/</loc>
     <lastmod>2016-07-18T14:52:11-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://devict.org/videos/react-flux-and-immutable-js/</loc>
+    <lastmod>2016-06-30T18:30:00-06:00</lastmod>
   </url>
   
   <url>
@@ -268,6 +278,12 @@
   </url>
   
   <url>
+    <loc>http://devict.org/tags/docker/</loc>
+    <lastmod>2016-09-29T18:42:00-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://devict.org/tags/editors/</loc>
     <lastmod>2015-03-26T21:30:39-05:00</lastmod>
     <priority>0</priority>
@@ -288,6 +304,12 @@
   <url>
     <loc>http://devict.org/tags/expressjs/</loc>
     <lastmod>2014-05-29T21:14:34-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://devict.org/tags/flux/</loc>
+    <lastmod>2016-06-30T18:30:00-06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -334,8 +356,20 @@
   </url>
   
   <url>
+    <loc>http://devict.org/tags/immutable/index.js/</loc>
+    <lastmod>2016-06-30T18:30:00-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://devict.org/tags/ipython/</loc>
     <lastmod>2014-09-25T20:43:26-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://devict.org/tags/javascript/</loc>
+    <lastmod>2016-06-30T18:30:00-06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -370,6 +404,12 @@
   <url>
     <loc>http://devict.org/tags/python/</loc>
     <lastmod>2014-09-25T20:43:26-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://devict.org/tags/react/</loc>
+    <lastmod>2016-06-30T18:30:00-06:00</lastmod>
     <priority>0</priority>
   </url>
   
