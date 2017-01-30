@@ -6,8 +6,17 @@
     <description>Recent content in Videos on devICT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Oct 2016 19:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jan 2017 19:00:00 -0600</lastBuildDate>
     <atom:link href="http://devict.org/videos/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Angular for Agencies, Entrepeneurs, and Enterprise</title>
+      <link>http://devict.org/videos/angular-for-agencies-entrepeneurs-and-enterprise/</link>
+      <pubDate>Thu, 26 Jan 2017 19:00:00 -0600</pubDate>
+      
+      <guid>http://devict.org/videos/angular-for-agencies-entrepeneurs-and-enterprise/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Web Automation Using Selenium</title>
@@ -132,15 +141,6 @@
       <pubDate>Thu, 30 Jul 2015 20:14:36 -0500</pubDate>
       
       <guid>http://devict.org/videos/set-phasers-to-game-development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Getting Started with Go</title>
-      <link>http://devict.org/videos/getting-started-with-go/</link>
-      <pubDate>Thu, 23 Jul 2015 20:53:21 -0500</pubDate>
-      
-      <guid>http://devict.org/videos/getting-started-with-go/</guid>
       <description></description>
     </item>
     

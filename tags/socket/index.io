@@ -149,6 +149,8 @@
             
           
             
+          
+            
               <ul>
                   
                   <li hugo-nav="/videos/socketio--binding-the-front-and-backend-together-with-nodejs-and-canvas/"><a href="http://devict.org/videos/socketio--binding-the-front-and-backend-together-with-nodejs-and-canvas/"> Socket.io - Binding the front and back-end together with Node.js and Canvas </a> </li>

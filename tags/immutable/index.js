@@ -119,6 +119,8 @@
             
           
             
+          
+            
               <ul>
                   
                   <li hugo-nav="/videos/react-flux-and-immutable-js/"><a href="http://devict.org/videos/react-flux-and-immutable-js/"> React Flux and Immutable JS </a> </li>
