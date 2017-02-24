@@ -6,8 +6,17 @@
     <description>Recent content in Videos on devICT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Jan 2017 19:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 23 Feb 2017 19:00:00 -0600</lastBuildDate>
     <atom:link href="http://devict.org/videos/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ringa.js Alpha Introduction</title>
+      <link>http://devict.org/videos/ringa-alpha-introduction/</link>
+      <pubDate>Thu, 23 Feb 2017 19:00:00 -0600</pubDate>
+      
+      <guid>http://devict.org/videos/ringa-alpha-introduction/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Angular for Agencies, Entrepeneurs, and Enterprise</title>
@@ -132,15 +141,6 @@
       <pubDate>Thu, 27 Aug 2015 20:23:32 -0500</pubDate>
       
       <guid>http://devict.org/videos/fanning-the-embers-of-your-web-app/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Set Phasers to Game Development</title>
-      <link>http://devict.org/videos/set-phasers-to-game-development/</link>
-      <pubDate>Thu, 30 Jul 2015 20:14:36 -0500</pubDate>
-      
-      <guid>http://devict.org/videos/set-phasers-to-game-development/</guid>
       <description></description>
     </item>
     

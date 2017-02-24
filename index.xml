@@ -6,8 +6,17 @@
     <description>Recent content on devICT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Jan 2017 19:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 23 Feb 2017 19:00:00 -0600</lastBuildDate>
     <atom:link href="http://devict.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ringa.js Alpha Introduction</title>
+      <link>http://devict.org/videos/ringa-alpha-introduction/</link>
+      <pubDate>Thu, 23 Feb 2017 19:00:00 -0600</pubDate>
+      
+      <guid>http://devict.org/videos/ringa-alpha-introduction/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Angular for Agencies, Entrepeneurs, and Enterprise</title>
@@ -310,15 +319,6 @@ created by the Geek Feminism community.&lt;/p&gt;
       <pubDate>Thu, 31 Mar 2016 20:20:40 -0500</pubDate>
       
       <guid>http://devict.org/videos/lex-it-parse-it-generate-it-run-it/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mobile Quick Talks</title>
-      <link>http://devict.org/videos/mobile-quick-talks/</link>
-      <pubDate>Thu, 25 Feb 2016 20:21:31 -0600</pubDate>
-      
-      <guid>http://devict.org/videos/mobile-quick-talks/</guid>
       <description></description>
     </item>
     
