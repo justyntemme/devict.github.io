@@ -2,12 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>devICT</title>
-    <link>http://devict.org/index.xml</link>
+    <link>http://devict.org/</link>
     <description>Recent content on devICT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Feb 2017 19:00:00 -0600</lastBuildDate>
-    <atom:link href="http://devict.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Mar 2017 19:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="http://devict.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Accessibility for Blind and Visually Impaired Users</title>
+      <link>http://devict.org/videos/accessibility-for-blind-and-visually-impaired-users/</link>
+      <pubDate>Thu, 30 Mar 2017 19:00:00 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/accessibility-for-blind-and-visually-impaired-users/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ringa.js Alpha Introduction</title>
@@ -69,51 +80,8 @@
       <pubDate>Thu, 21 Jul 2016 15:33:19 -0500</pubDate>
       
       <guid>http://devict.org/support/</guid>
-      <description>
-
-&lt;h2 id=&#34;our-costs&#34;&gt;Our costs&lt;/h2&gt;
-
-&lt;p&gt;Membership in our organization is free as are most of our events. To keep our
-services free we depend on donations from the community.&lt;/p&gt;
-
-&lt;div id=&#34;loading&#34; class=&#34;text-center&#34;&gt;
-  &lt;i class=&#34;fa fa-cog fa-spin fa-5x&#34;&gt;&lt;/i&gt;
-&lt;/div&gt;
-
-&lt;div id=&#34;details&#34; class=&#34;hidden&#34;&gt;
-Our monthly costs average about &lt;strong id=&#34;costs-sum&#34;&gt;&lt;/strong&gt;.
-Our recurring donations are about &lt;strong id=&#34;donations-sum&#34;&gt;&lt;/strong&gt; from &lt;strong id=&#34;donations-count&#34;&gt;&lt;/strong&gt; donors.
-
-&lt;canvas id=&#34;chart&#34; width=&#34;200&#34; height=&#34;50&#34; class=&#34;centered&#34;&gt;&lt;/canvas&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;recurring-donations&#34;&gt;Recurring Donations&lt;/h2&gt;
-
-&lt;p&gt;
-  You can create a recurring donation by creating an account on
-  Patreon. To donate visit &lt;a href=&#34;https://patreon.com/devict&#34;
-  class=&#34;btn btn-success&#34;&gt;&lt;i class=&#34;fa fa-rocket&#34;&gt;&lt;/i&gt;devICT on Patreon&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;h2 id=&#34;one-time-donations&#34;&gt;One-time Donations&lt;/h2&gt;
-
-&lt;p&gt;
-  If you want to help but do not want to set up a recurring donation
-  you can give a single amount using PayPal.
-&lt;/p&gt;
-&lt;form action=&#34;https://www.paypal.com/cgi-bin/webscr&#34; method=&#34;post&#34; target=&#34;_top&#34;&gt;
-  &lt;input type=&#34;hidden&#34; name=&#34;cmd&#34; value=&#34;_s-xclick&#34;&gt;
-  &lt;input type=&#34;hidden&#34; name=&#34;hosted_button_id&#34; value=&#34;TV7Y785BF7V4G&#34;&gt;
-  &lt;input type=&#34;image&#34; src=&#34;https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif&#34; border=&#34;0&#34; name=&#34;submit&#34; alt=&#34;PayPal - The safer, easier way to pay online!&#34;&gt;
-  &lt;img alt=&#34;&#34; border=&#34;0&#34; src=&#34;https://www.paypalobjects.com/en_US/i/scr/pixel.gif&#34; width=&#34;1&#34; height=&#34;1&#34;&gt;
-&lt;/form&gt;
-
-## Referral Codes
-&lt;p&gt;
-  If you were planning to use Digital Ocean you can try to sign up using our &lt;a
-  href=&#34;https://www.digitalocean.com/?refcode=0bc5d355b0fe&#34;&gt;referral code&lt;/a&gt;.
-&lt;/p&gt;
-</description>
+      <description>Our costs Membership in our organization is free as are most of our events. To keep our services free we depend on donations from the community.
+  Our monthly costs average about . Our recurring donations are about  from  donors.   Recurring Donations  You can create a recurring donation by creating an account on Patreon. To donate visit devICT on Patreon One-time Donations  If you want to help but do not want to set up a recurring donation you can give a single amount using PayPal.</description>
     </item>
     
     <item>
@@ -122,30 +90,8 @@ Our recurring donations are about &lt;strong id=&#34;donations-sum&#34;&gt;&lt;/
       <pubDate>Mon, 18 Jul 2016 14:52:11 -0500</pubDate>
       
       <guid>http://devict.org/about/</guid>
-      <description>
-
-&lt;h2 id=&#34;a-community-for-wichita-developers&#34;&gt;A community for Wichita developers&lt;/h2&gt;
-
-&lt;p&gt;devICT is a local community for developers in Wichita, KS. We are a group of
-like-minded software developers gathering to help each other better ourselves
-as professionals and hobbyists alike. devICT welcomes front-end devs, back-end
-devs, mobile devs, desktop devs, mainframe devs, designers, and all others.&lt;/p&gt;
-
-&lt;p&gt;Come join us to get real-world examples of new technologies that you can
-implement into your workflow today. By attending the events you will become a
-better developer and will meet other like-minded people from the ever-growing
-developer community in Wichita.&lt;/p&gt;
-
-&lt;h2 id=&#34;a-makeict-organization&#34;&gt;A MakeICT organization&lt;/h2&gt;
-
-&lt;p&gt;devICT is a project of the &lt;a href=&#34;http://makeict.org&#34;&gt;MakeICT organization&lt;/a&gt; that
-focuses on making things with code. MakeICT is an incredible group whose aim is
-to provide local makers with the facilities, equipment, knowledge and community
-it takes to make awesome things.&lt;/p&gt;
-
-&lt;p&gt;If you enjoy devICT or anything it provides, please take the time to check out
-MakeICT as well and attend some events.&lt;/p&gt;
-</description>
+      <description>A community for Wichita developers devICT is a local community for developers in Wichita, KS. We are a group of like-minded software developers gathering to help each other better ourselves as professionals and hobbyists alike. devICT welcomes front-end devs, back-end devs, mobile devs, desktop devs, mainframe devs, designers, and all others.
+Come join us to get real-world examples of new technologies that you can implement into your workflow today. By attending the events you will become a better developer and will meet other like-minded people from the ever-growing developer community in Wichita.</description>
     </item>
     
     <item>
@@ -154,41 +100,8 @@ MakeICT as well and attend some events.&lt;/p&gt;
       <pubDate>Mon, 18 Jul 2016 14:52:11 -0500</pubDate>
       
       <guid>http://devict.org/conduct/</guid>
-      <description>
-
-&lt;h2 id=&#34;amp-anti-harassment-policy&#34;&gt;&amp;amp; Anti-Harassment Policy&lt;/h2&gt;
-
-&lt;p&gt;devICT is dedicated to providing a safe and harassment-free experience for
-everyone, regardless of gender, gender identity and expression, sexual
-orientation, disability, physical appearance, body size, race, age, religion,
-technical ability, or software preferences. We do not tolerate harassment in
-any form. Sexual language and imagery is not appropriate for any devICT meetup
-or chatroom.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Anyone violating these rules may be asked to leave the meetup or chatroom at
-the discretion of devICT organizers.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Harassment includes&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Offensive comments related to gender, age, sexual orientation, disability,
-physical appearance, body size, race, religion, technical ability or software
-preferences&lt;/li&gt;
-&lt;li&gt;Sexual images in public spaces&lt;/li&gt;
-&lt;li&gt;Deliberate intimidation, stalking, following, harassing photography or recording&lt;/li&gt;
-&lt;li&gt;Sustained disruption of talks or other events&lt;/li&gt;
-&lt;li&gt;Inappropriate physical contact&lt;/li&gt;
-&lt;li&gt;Unwelcome sexual attention.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Members asked to stop any harassing behavior are expected to comply immediately.&lt;/p&gt;
-
-&lt;p&gt;Sponsors, organizers, and speakers are also subject to the anti-harassment policy.&lt;/p&gt;
-
-&lt;p&gt;This anti-harassment policy is based on the example policy from the &lt;a href=&#34;http://geekfeminism.wikia.com/wiki/Community_anti-harassment&#34;&gt;Geek
-Feminism wiki&lt;/a&gt;,
-created by the Geek Feminism community.&lt;/p&gt;
-</description>
+      <description>&amp;amp; Anti-Harassment Policy devICT is dedicated to providing a safe and harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, technical ability, or software preferences. We do not tolerate harassment in any form. Sexual language and imagery is not appropriate for any devICT meetup or chatroom.
+Anyone violating these rules may be asked to leave the meetup or chatroom at the discretion of devICT organizers.</description>
     </item>
     
     <item>
@@ -197,84 +110,10 @@ created by the Geek Feminism community.&lt;/p&gt;
       <pubDate>Mon, 18 Jul 2016 14:52:11 -0500</pubDate>
       
       <guid>http://devict.org/events/</guid>
-      <description>
-
-&lt;h2 id=&#34;recurring-events&#34;&gt;Recurring Events&lt;/h2&gt;
-
-&lt;h4 id=&#34;we-have-several-recurring-events-so-there-s-always-something-to-do-be-sure-to-a-href-http-www-meetup-com-devict-class-underline-join-us-on-meetup-a-to-stay-informed&#34;&gt;We have several recurring events so there&amp;rsquo;s always something to do. Be sure to &lt;a href=&#34;http://www.meetup.com/devict/&#34; class=&#34;underline&#34;&gt;join us on Meetup&lt;/a&gt; to stay informed!&lt;/h4&gt;
-
-&lt;div class=&#34;row&#34;&gt;
-&lt;div class=&#34;col-sm-3&#34;&gt;
-  &lt;h3&gt;Dev Talks&lt;/h3&gt;
-  &lt;p&gt;Monthly, every last Thursday.&lt;/p&gt;
-  &lt;p&gt;This event features a presentation on various development related topics. This is an opportunity to share knowledge and get exposure to all kinds of new technologies, languages, tools, and more.&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;col-sm-3&#34;&gt;
-  &lt;h3&gt;Study Hall&lt;/h3&gt;
-  &lt;p&gt;Weekly, every Monday.&lt;/p&gt;
-  &lt;p&gt;Study Hall is your opportunity to learn how to code and improve your skills.&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;col-sm-3&#34;&gt;
-  &lt;h3&gt;Code &amp; Coffee&lt;/h3&gt;
-  &lt;p&gt;Thursday mornings at 7:00am.&lt;/p&gt;
-  &lt;p&gt;Start your day off right with this informal get together. Bring your laptop, enjoy some coffee, and hang out with other developers. Come whenever, leave whenever. Oh, and sometimes there are donuts.&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;col-sm-3&#34;&gt;
-  &lt;h3&gt;Hangout&lt;/h3&gt;
-  &lt;p&gt;Monthly, every second Tuesday.&lt;/p&gt;
-  &lt;p&gt;The Hangout is a social event and an opportunity to hang out, talk code (or not) and enjoy some company. Sometimes we make things. Sometimes we have a beer or two. Always a good time.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;!-- Meetup official Image asset --&gt;
-
-&lt;!-- http://www.meetup.com/help/customer/portal/articles/1802998-promotional-materials-for-your-meetup-group/ --&gt;
-
-&lt;h1 id=&#34;img-src-https-a248-e-akamai-net-secure-meetupstatic-com-photos-event-8-f-1-d-highres-454596637-jpeg-width-75-height-75-upcoming-events&#34;&gt;&lt;img src=&#34;https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/f/1/d/highres_454596637.jpeg&#34; width=&#34;75&#34; height=&#34;75&#34;&gt; Upcoming Events&lt;/h1&gt;
-
-&lt;div id=&#34;loading&#34; class=&#34;text-center&#34;&gt;
-  &lt;i class=&#34;fa fa-cog fa-spin fa-5x&#34;&gt;&lt;/i&gt;
-&lt;/div&gt;
-
-&lt;!-- placeholder html that will be filled with data from events.js --&gt;
-
-&lt;div id=&#34;events&#34; class=&#34;hidden&#34;&gt;
-  &lt;div class=&#34;panel panel-default&#34;&gt; 
-      &lt;div class=&#34;panel-heading&#34;&gt;
-        &lt;h3 class=&#34;panel-title&#34;&gt;
-          &lt;a href=&#34;&#34; class=&#34;event_url&#34; target=&#34;_blank&#34; style=&#34;text-transform:uppercase&#34;&gt;
-            &lt;span class=&#34;event_name&#34;&gt;&lt;/span&gt;
-          &lt;/a&gt; 
-      &lt;/h3&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;panel-body&#34;&gt;
-      &lt;p&gt;
-        &lt;span class=&#34;event_description&#34;&gt;&lt;/span&gt;
-      &lt;/p&gt;
-      &lt;b&gt;Venue:&lt;/b&gt;
-      &lt;span class=&#34;event_venue_name&#34;&gt;&lt;/span&gt;, 
-      &lt;span class=&#34;event_venue_address&#34;&gt;&lt;/span&gt;, &lt;span class=&#34;event_venue_city&#34;&gt;&lt;/span&gt;&amp;nbsp;
-      &lt;a href=&#34;&#34; class=&#34;event_map&#34; target=&#34;_blank&#34;&gt; &lt;i class=&#34;fa fa-map-marker&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; Map It!&lt;/a&gt; 
-      &lt;p&gt;
-        &lt;b&gt;Date and Time&lt;/b&gt;: 
-        &lt;span class=&#34;event_time&#34;&gt;&lt;/span&gt;
-      &lt;/p&gt; 
-      &lt;a class=&#34;btn btn-sm btn-primary event_url&#34; href=&#34;&#34; target=&#34;_blank&#34; role=&#34;button&#34;&gt;
-        &lt;i class=&#34;fa fa-external-link&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; 
-        Visit Meetup
-      &lt;/a&gt;
-      &lt;br&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;!-- displays meetup results --&gt;
-
-&lt;div id=&#34;results&#34; class=&#34;hidden&#34;&gt;&lt;/div&gt;
-</description>
+      <description>Recurring Events We have several recurring events so there&amp;rsquo;s always something to do. Be sure to join us on Meetup to stay informed! Dev Talks Monthly, every last Thursday.
+This event features a presentation on various development related topics. This is an opportunity to share knowledge and get exposure to all kinds of new technologies, languages, tools, and more.
+ Study Hall Weekly, every Monday.
+Study Hall is your opportunity to learn how to code and improve your skills.</description>
     </item>
     
     <item>
@@ -320,6 +159,335 @@ created by the Geek Feminism community.&lt;/p&gt;
       
       <guid>http://devict.org/videos/lex-it-parse-it-generate-it-run-it/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile Quick Talks</title>
+      <link>http://devict.org/videos/mobile-quick-talks/</link>
+      <pubDate>Thu, 25 Feb 2016 20:21:31 -0600</pubDate>
+      
+      <guid>http://devict.org/videos/mobile-quick-talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PostgREST</title>
+      <link>http://devict.org/videos/postgrest/</link>
+      <pubDate>Thu, 28 Jan 2016 21:18:44 -0600</pubDate>
+      
+      <guid>http://devict.org/videos/postgrest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lightning Talks Sep 15</title>
+      <link>http://devict.org/videos/lightning-talks-sep-15/</link>
+      <pubDate>Thu, 24 Sep 2015 20:47:11 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/lightning-talks-sep-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fanning the Embers of your Web App</title>
+      <link>http://devict.org/videos/fanning-the-embers-of-your-web-app/</link>
+      <pubDate>Thu, 27 Aug 2015 20:23:32 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/fanning-the-embers-of-your-web-app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Set Phasers to Game Development</title>
+      <link>http://devict.org/videos/set-phasers-to-game-development/</link>
+      <pubDate>Thu, 30 Jul 2015 20:14:36 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/set-phasers-to-game-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Go</title>
+      <link>http://devict.org/videos/getting-started-with-go/</link>
+      <pubDate>Thu, 23 Jul 2015 20:53:21 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/getting-started-with-go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robots - Bringing your code into the real world</title>
+      <link>http://devict.org/videos/robots--bringing-your-code-into-the-real-world/</link>
+      <pubDate>Fri, 26 Jun 2015 18:02:49 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/robots--bringing-your-code-into-the-real-world/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardware Hacking with Node and Johnny-Five</title>
+      <link>http://devict.org/videos/hardware-hacking-with-node-and-johnnyfive/</link>
+      <pubDate>Thu, 30 Apr 2015 20:18:29 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/hardware-hacking-with-node-and-johnnyfive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vim and Emacs Chat: Part 2: Emacs</title>
+      <link>http://devict.org/videos/vim-and-emacs-chat-part-2-emacs/</link>
+      <pubDate>Thu, 26 Mar 2015 21:30:39 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/vim-and-emacs-chat-part-2-emacs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vim and Emacs Chat: Part 1: Vim</title>
+      <link>http://devict.org/videos/vim-and-emacs-chat-part-1-vim/</link>
+      <pubDate>Thu, 26 Mar 2015 20:14:26 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/vim-and-emacs-chat-part-1-vim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time Media Manipulation with Pure Data</title>
+      <link>http://devict.org/videos/realtime-media-manipulation-with-pure-data/</link>
+      <pubDate>Thu, 26 Feb 2015 20:37:48 -0600</pubDate>
+      
+      <guid>http://devict.org/videos/realtime-media-manipulation-with-pure-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intelligent GUI Automation with Sikuli</title>
+      <link>http://devict.org/videos/intelligent-gui-automation-with-sikuli/</link>
+      <pubDate>Thu, 29 Jan 2015 22:57:25 -0600</pubDate>
+      
+      <guid>http://devict.org/videos/intelligent-gui-automation-with-sikuli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iPython Notebooks for Cool Kids</title>
+      <link>http://devict.org/videos/ipython-notebooks-for-cool-kids/</link>
+      <pubDate>Thu, 25 Sep 2014 20:43:26 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/ipython-notebooks-for-cool-kids/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Baby Springboards Towards Better Accessibility</title>
+      <link>http://devict.org/videos/baby-springboards-towards-better-accessibility/</link>
+      <pubDate>Thu, 25 Sep 2014 20:14:22 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/baby-springboards-towards-better-accessibility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test Driven Development</title>
+      <link>http://devict.org/videos/test-driven-development/</link>
+      <pubDate>Thu, 28 Aug 2014 20:43:28 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/test-driven-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementing OOP</title>
+      <link>http://devict.org/videos/implementing-oop/</link>
+      <pubDate>Thu, 26 Jun 2014 21:13:18 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/implementing-oop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>devICT - Automating Gimp Using Python</title>
+      <link>http://devict.org/videos/devict--automating-gimp-using-python/</link>
+      <pubDate>Thu, 05 Jun 2014 08:41:49 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/devict--automating-gimp-using-python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JavaScript Web Servers with Express.js</title>
+      <link>http://devict.org/videos/javascript-web-servers-with-expressjs/</link>
+      <pubDate>Thu, 29 May 2014 21:14:34 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/javascript-web-servers-with-expressjs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Build That Phing!</title>
+      <link>http://devict.org/videos/build-that-phing/</link>
+      <pubDate>Thu, 17 Apr 2014 21:08:21 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/build-that-phing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Your Secure Site Isn&#39;t Secure - 6 Ways To Fix It</title>
+      <link>http://devict.org/videos/your-secure-site-isnt-secure--6-ways-to-fix-it/</link>
+      <pubDate>Thu, 17 Apr 2014 19:38:56 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/your-secure-site-isnt-secure--6-ways-to-fix-it/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intro to Haskell: Type Basics</title>
+      <link>http://devict.org/videos/intro-to-haskell-type-basics/</link>
+      <pubDate>Thu, 27 Mar 2014 19:40:44 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/intro-to-haskell-type-basics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CSS Standards and Conventions</title>
+      <link>http://devict.org/videos/css-standards-and-conventions/</link>
+      <pubDate>Thu, 27 Feb 2014 19:50:06 -0600</pubDate>
+      
+      <guid>http://devict.org/videos/css-standards-and-conventions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intro to Vagrant</title>
+      <link>http://devict.org/videos/intro-to-vagrant/</link>
+      <pubDate>Thu, 30 Jan 2014 21:12:56 -0600</pubDate>
+      
+      <guid>http://devict.org/videos/intro-to-vagrant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intro to Grunt.js</title>
+      <link>http://devict.org/videos/intro-to-gruntjs/</link>
+      <pubDate>Thu, 30 Jan 2014 19:01:22 -0600</pubDate>
+      
+      <guid>http://devict.org/videos/intro-to-gruntjs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Realtime Web Apps w/ Sails.js</title>
+      <link>http://devict.org/videos/realtime-web-apps-w-sailsjs/</link>
+      <pubDate>Thu, 21 Nov 2013 21:38:52 -0600</pubDate>
+      
+      <guid>http://devict.org/videos/realtime-web-apps-w-sailsjs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Templating In PHP With Twig</title>
+      <link>http://devict.org/videos/templating-in-php-with-twig/</link>
+      <pubDate>Thu, 21 Nov 2013 19:45:29 -0600</pubDate>
+      
+      <guid>http://devict.org/videos/templating-in-php-with-twig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Socket.io - Binding the front and back-end together with Node.js and Canvas</title>
+      <link>http://devict.org/videos/socketio--binding-the-front-and-backend-together-with-nodejs-and-canvas/</link>
+      <pubDate>Thu, 24 Oct 2013 19:56:19 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/socketio--binding-the-front-and-backend-together-with-nodejs-and-canvas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talkin Sass!</title>
+      <link>http://devict.org/videos/talkin-sass/</link>
+      <pubDate>Thu, 26 Sep 2013 20:40:12 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/talkin-sass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Game Design with C#</title>
+      <link>http://devict.org/videos/game-design-with-c/</link>
+      <pubDate>Thu, 29 Aug 2013 20:22:29 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/game-design-with-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intro to Web Applications with AngularJS</title>
+      <link>http://devict.org/videos/intro-to-web-applications-with-angularjs/</link>
+      <pubDate>Fri, 26 Jul 2013 08:33:07 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/intro-to-web-applications-with-angularjs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Git Part II: The Origin of Master</title>
+      <link>http://devict.org/videos/git-part-ii-the-origin-of-master/</link>
+      <pubDate>Thu, 30 May 2013 20:08:10 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/git-part-ii-the-origin-of-master/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Git: From Init Through Commit</title>
+      <link>http://devict.org/videos/git-from-init-through-commit/</link>
+      <pubDate>Thu, 25 Apr 2013 20:35:32 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/git-from-init-through-commit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regular Expressions 101</title>
+      <link>http://devict.org/videos/regular-expressions-101/</link>
+      <pubDate>Fri, 29 Mar 2013 07:03:33 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/regular-expressions-101/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Binary Reader</title>
+      <link>http://devict.org/binary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://devict.org/binary/</guid>
+      <description>Welcome SWE Expo! Computers don&#39;t think and talk like us. Instead of English they speak Binary. Try writing a word in binary!
+What is Binary? Binary numbers are just like regular numbers, except instead of using digits 0 through 9, they only use 0 and 1.
+  How to use Each letter of the alphabet has a number. A is 1, B is 2, and so on. Figure out what number goes with each letter, and then click the holes to add the numbers up to equal that letters number.</description>
+    </item>
+    
+    <item>
+      <title>Mentors</title>
+      <link>http://devict.org/mentors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://devict.org/mentors/</guid>
+      <description>Mentors are available to offer their expertise to others. Use this page to search for someone with a specific skill then reach out to them on Slack. Everyone listed here has explicitly volunteered to be a mentor so don&amp;rsquo;t hesitate to reach out!
+&amp;times; Connect with a mentor  {{selectedMentor.name}} is available to mentor in these topics:
+{{skill}} To get started, send {{selectedMentor.username}} a message on Slack.
+ {{selectedMentor.name}} is currently unavailable for mentorship.</description>
+    </item>
+    
+    <item>
+      <title>Slack</title>
+      <link>http://devict.org/slack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://devict.org/slack/</guid>
+      <description>window.location = &#34;https://devict-slackin.herokuapp.com&#34;; </description>
     </item>
     
   </channel>

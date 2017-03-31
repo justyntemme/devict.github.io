@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on devICT</title>
+    <link>http://devict.org/tags/</link>
+    <description>Recent content in Tags on devICT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Mar 2017 19:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="http://devict.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Accessibility</title>
+      <link>http://devict.org/tags/accessibility/</link>
+      <pubDate>Thu, 30 Mar 2017 19:00:00 -0500</pubDate>
+      
+      <guid>http://devict.org/tags/accessibility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Angular</title>
+      <link>http://devict.org/tags/angular/</link>
+      <pubDate>Thu, 26 Jan 2017 19:00:00 -0600</pubDate>
+      
+      <guid>http://devict.org/tags/angular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Angularjs</title>
+      <link>http://devict.org/tags/angularjs/</link>
+      <pubDate>Fri, 26 Jul 2013 08:33:07 -0500</pubDate>
+      
+      <guid>http://devict.org/tags/angularjs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apps</title>
+      <link>http://devict.org/tags/apps/</link>
+      <pubDate>Thu, 26 May 2016 20:18:25 -0500</pubDate>
+      
+      <guid>http://devict.org/tags/apps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automation</title>
+      <link>http://devict.org/tags/automation/</link>
+      <pubDate>Thu, 27 Oct 2016 19:00:00 -0500</pubDate>
+      
+      <guid>http://devict.org/tags/automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bots</title>
+      <link>http://devict.org/tags/bots/</link>
+      <pubDate>Fri, 26 Jun 2015 18:02:49 -0500</pubDate>
+      
+      <guid>http://devict.org/tags/bots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C</title>
+      <link>http://devict.org/tags/c/</link>
+      <pubDate>Thu, 29 Aug 2013 20:22:29 -0500</pubDate>
+      
+      <guid>http://devict.org/tags/c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Canvas</title>
+      <link>http://devict.org/tags/canvas/</link>
+      <pubDate>Thu, 24 Oct 2013 19:56:19 -0500</pubDate>
+      
+      <guid>http://devict.org/tags/canvas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Css</title>
+      <link>http://devict.org/tags/css/</link>
+      <pubDate>Thu, 27 Feb 2014 19:50:06 -0600</pubDate>
+      
+      <guid>http://devict.org/tags/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>http://devict.org/tags/docker/</link>
+      <pubDate>Thu, 29 Sep 2016 18:42:00 -0600</pubDate>
+      
+      <guid>http://devict.org/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Editors</title>
+      <link>http://devict.org/tags/editors/</link>
+      <pubDate>Thu, 26 Mar 2015 21:30:39 -0500</pubDate>
+      
+      <guid>http://devict.org/tags/editors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elixir</title>
+      <link>http://devict.org/tags/elixir/</link>
+      <pubDate>Thu, 28 Jul 2016 19:00:00 -0500</pubDate>
+      
+      <guid>http://devict.org/tags/elixir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emacs</title>
+      <link>http://devict.org/tags/emacs/</link>
+      <pubDate>Thu, 26 Mar 2015 21:30:39 -0500</pubDate>
+      
+      <guid>http://devict.org/tags/emacs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expressjs</title>
+      <link>http://devict.org/tags/expressjs/</link>
+      <pubDate>Thu, 29 May 2014 21:14:34 -0500</pubDate>
+      
+      <guid>http://devict.org/tags/expressjs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flux</title>
+      <link>http://devict.org/tags/flux/</link>
+      <pubDate>Thu, 30 Jun 2016 18:30:00 -0600</pubDate>
+      
+      <guid>http://devict.org/tags/flux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fundamentals</title>
+      <link>http://devict.org/tags/fundamentals/</link>
+      <pubDate>Thu, 26 Jun 2014 21:13:18 -0500</pubDate>
+      
+      <guid>http://devict.org/tags/fundamentals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Games</title>
+      <link>http://devict.org/tags/games/</link>
+      <pubDate>Thu, 30 Jul 2015 20:14:36 -0500</pubDate>
+      
+      <guid>http://devict.org/tags/games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>http://devict.org/tags/git/</link>
+      <pubDate>Thu, 30 May 2013 20:08:10 -0500</pubDate>
+      
+      <guid>http://devict.org/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Go</title>
+      <link>http://devict.org/tags/go/</link>
+      <pubDate>Wed, 04 May 2016 20:41:08 -0500</pubDate>
+      
+      <guid>http://devict.org/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gruntjs</title>
+      <link>http://devict.org/tags/gruntjs/</link>
+      <pubDate>Thu, 30 Jan 2014 19:01:22 -0600</pubDate>
+      
+      <guid>http://devict.org/tags/gruntjs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardware</title>
+      <link>http://devict.org/tags/hardware/</link>
+      <pubDate>Thu, 30 Apr 2015 20:18:29 -0500</pubDate>
+      
+      <guid>http://devict.org/tags/hardware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haskell</title>
+      <link>http://devict.org/tags/haskell/</link>
+      <pubDate>Thu, 27 Mar 2014 19:40:44 -0500</pubDate>
+      
+      <guid>http://devict.org/tags/haskell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Immutable.Js</title>
+      <link>http://devict.org/tags/immutable.js/</link>
+      <pubDate>Thu, 30 Jun 2016 18:30:00 -0600</pubDate>
+      
+      <guid>http://devict.org/tags/immutable.js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ipython</title>
+      <link>http://devict.org/tags/ipython/</link>
+      <pubDate>Thu, 25 Sep 2014 20:43:26 -0500</pubDate>
+      
+      <guid>http://devict.org/tags/ipython/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javascript</title>
+      <link>http://devict.org/tags/javascript/</link>
+      <pubDate>Thu, 23 Feb 2017 19:00:00 -0600</pubDate>
+      
+      <guid>http://devict.org/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lightning Talks</title>
+      <link>http://devict.org/tags/lightning-talks/</link>
+      <pubDate>Thu, 24 Sep 2015 20:47:11 -0500</pubDate>
+      
+      <guid>http://devict.org/tags/lightning-talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile</title>
+      <link>http://devict.org/tags/mobile/</link>
+      <pubDate>Thu, 26 May 2016 20:18:25 -0500</pubDate>
+      
+      <guid>http://devict.org/tags/mobile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nodejs</title>
+      <link>http://devict.org/tags/nodejs/</link>
+      <pubDate>Thu, 30 Apr 2015 20:18:29 -0500</pubDate>
+      
+      <guid>http://devict.org/tags/nodejs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Php</title>
+      <link>http://devict.org/tags/php/</link>
+      <pubDate>Thu, 21 Nov 2013 19:45:29 -0600</pubDate>
+      
+      <guid>http://devict.org/tags/php/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>http://devict.org/tags/python/</link>
+      <pubDate>Thu, 25 Sep 2014 20:43:26 -0500</pubDate>
+      
+      <guid>http://devict.org/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>React</title>
+      <link>http://devict.org/tags/react/</link>
+      <pubDate>Thu, 30 Jun 2016 18:30:00 -0600</pubDate>
+      
+      <guid>http://devict.org/tags/react/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regex</title>
+      <link>http://devict.org/tags/regex/</link>
+      <pubDate>Fri, 29 Mar 2013 07:03:33 -0500</pubDate>
+      
+      <guid>http://devict.org/tags/regex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sailsjs</title>
+      <link>http://devict.org/tags/sailsjs/</link>
+      <pubDate>Thu, 21 Nov 2013 21:38:52 -0600</pubDate>
+      
+      <guid>http://devict.org/tags/sailsjs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sass</title>
+      <link>http://devict.org/tags/sass/</link>
+      <pubDate>Thu, 26 Sep 2013 20:40:12 -0500</pubDate>
+      
+      <guid>http://devict.org/tags/sass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>http://devict.org/tags/security/</link>
+      <pubDate>Thu, 17 Apr 2014 19:38:56 -0500</pubDate>
+      
+      <guid>http://devict.org/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selenium</title>
+      <link>http://devict.org/tags/selenium/</link>
+      <pubDate>Thu, 27 Oct 2016 19:00:00 -0500</pubDate>
+      
+      <guid>http://devict.org/tags/selenium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sikuli</title>
+      <link>http://devict.org/tags/sikuli/</link>
+      <pubDate>Thu, 29 Jan 2015 22:57:25 -0600</pubDate>
+      
+      <guid>http://devict.org/tags/sikuli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Socket.Io</title>
+      <link>http://devict.org/tags/socket.io/</link>
+      <pubDate>Thu, 24 Oct 2013 19:56:19 -0500</pubDate>
+      
+      <guid>http://devict.org/tags/socket.io/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tdd</title>
+      <link>http://devict.org/tags/tdd/</link>
+      <pubDate>Thu, 28 Aug 2014 20:43:28 -0500</pubDate>
+      
+      <guid>http://devict.org/tags/tdd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing</title>
+      <link>http://devict.org/tags/testing/</link>
+      <pubDate>Thu, 27 Oct 2016 19:00:00 -0500</pubDate>
+      
+      <guid>http://devict.org/tags/testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Twig</title>
+      <link>http://devict.org/tags/twig/</link>
+      <pubDate>Thu, 21 Nov 2013 19:45:29 -0600</pubDate>
+      
+      <guid>http://devict.org/tags/twig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vagrant</title>
+      <link>http://devict.org/tags/vagrant/</link>
+      <pubDate>Thu, 30 Jan 2014 21:12:56 -0600</pubDate>
+      
+      <guid>http://devict.org/tags/vagrant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vim</title>
+      <link>http://devict.org/tags/vim/</link>
+      <pubDate>Thu, 26 Mar 2015 21:30:39 -0500</pubDate>
+      
+      <guid>http://devict.org/tags/vim/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

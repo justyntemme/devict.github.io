@@ -2,11 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ipython on devICT</title>
-    <link>http://devict.org/tags/ipython/index.xml</link>
+    <link>http://devict.org/tags/ipython/</link>
     <description>Recent content in Ipython on devICT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://devict.org/tags/ipython/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Sep 2014 20:43:26 -0500</lastBuildDate>
+    
+	<atom:link href="http://devict.org/tags/ipython/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>iPython Notebooks for Cool Kids</title>

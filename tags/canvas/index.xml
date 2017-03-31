@@ -2,11 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Canvas on devICT</title>
-    <link>http://devict.org/tags/canvas/index.xml</link>
+    <link>http://devict.org/tags/canvas/</link>
     <description>Recent content in Canvas on devICT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://devict.org/tags/canvas/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Oct 2013 19:56:19 -0500</lastBuildDate>
+    
+	<atom:link href="http://devict.org/tags/canvas/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Socket.io - Binding the front and back-end together with Node.js and Canvas</title>

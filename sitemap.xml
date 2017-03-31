@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://devict.org/videos/accessibility-for-blind-and-visually-impaired-users/</loc>
+    <lastmod>2017-03-30T19:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://devict.org/videos/ringa-alpha-introduction/</loc>
     <lastmod>2017-02-23T19:00:00-06:00</lastmod>
   </url>
@@ -242,6 +247,12 @@
   </url>
   
   <url>
+    <loc>http://devict.org/tags/accessibility/</loc>
+    <lastmod>2017-03-30T19:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://devict.org/tags/angular/</loc>
     <lastmod>2017-01-26T19:00:00-06:00</lastmod>
     <priority>0</priority>
@@ -372,7 +383,7 @@
   </url>
   
   <url>
-    <loc>http://devict.org/tags/immutable/index.js/</loc>
+    <loc>http://devict.org/tags/immutable.js/</loc>
     <lastmod>2016-06-30T18:30:00-06:00</lastmod>
     <priority>0</priority>
   </url>
@@ -470,14 +481,14 @@
   </url>
   
   <url>
-    <loc>http://devict.org/tags/socket/index.io/</loc>
+    <loc>http://devict.org/tags/socket.io/</loc>
     <lastmod>2013-10-24T19:56:19-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://devict.org/tags/</loc>
-    <lastmod>2017-02-23T19:00:00-06:00</lastmod>
+    <lastmod>2017-03-30T19:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -507,7 +518,7 @@
   
   <url>
     <loc>http://devict.org/videos/</loc>
-    <lastmod>2017-02-23T19:00:00-06:00</lastmod>
+    <lastmod>2017-03-30T19:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -519,7 +530,7 @@
   
   <url>
     <loc>http://devict.org/</loc>
-    <lastmod>2017-02-23T19:00:00-06:00</lastmod>
+    <lastmod>2017-03-30T19:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   

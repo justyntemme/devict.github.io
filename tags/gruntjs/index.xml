@@ -2,11 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gruntjs on devICT</title>
-    <link>http://devict.org/tags/gruntjs/index.xml</link>
+    <link>http://devict.org/tags/gruntjs/</link>
     <description>Recent content in Gruntjs on devICT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://devict.org/tags/gruntjs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Jan 2014 19:01:22 -0600</lastBuildDate>
+    
+	<atom:link href="http://devict.org/tags/gruntjs/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Intro to Grunt.js</title>

@@ -2,12 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Videos on devICT</title>
-    <link>http://devict.org/videos/index.xml</link>
+    <link>http://devict.org/videos/</link>
     <description>Recent content in Videos on devICT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Feb 2017 19:00:00 -0600</lastBuildDate>
-    <atom:link href="http://devict.org/videos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Mar 2017 19:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="http://devict.org/videos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Accessibility for Blind and Visually Impaired Users</title>
+      <link>http://devict.org/videos/accessibility-for-blind-and-visually-impaired-users/</link>
+      <pubDate>Thu, 30 Mar 2017 19:00:00 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/accessibility-for-blind-and-visually-impaired-users/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ringa.js Alpha Introduction</title>
@@ -141,6 +152,267 @@
       <pubDate>Thu, 27 Aug 2015 20:23:32 -0500</pubDate>
       
       <guid>http://devict.org/videos/fanning-the-embers-of-your-web-app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Set Phasers to Game Development</title>
+      <link>http://devict.org/videos/set-phasers-to-game-development/</link>
+      <pubDate>Thu, 30 Jul 2015 20:14:36 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/set-phasers-to-game-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Go</title>
+      <link>http://devict.org/videos/getting-started-with-go/</link>
+      <pubDate>Thu, 23 Jul 2015 20:53:21 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/getting-started-with-go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robots - Bringing your code into the real world</title>
+      <link>http://devict.org/videos/robots--bringing-your-code-into-the-real-world/</link>
+      <pubDate>Fri, 26 Jun 2015 18:02:49 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/robots--bringing-your-code-into-the-real-world/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardware Hacking with Node and Johnny-Five</title>
+      <link>http://devict.org/videos/hardware-hacking-with-node-and-johnnyfive/</link>
+      <pubDate>Thu, 30 Apr 2015 20:18:29 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/hardware-hacking-with-node-and-johnnyfive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vim and Emacs Chat: Part 2: Emacs</title>
+      <link>http://devict.org/videos/vim-and-emacs-chat-part-2-emacs/</link>
+      <pubDate>Thu, 26 Mar 2015 21:30:39 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/vim-and-emacs-chat-part-2-emacs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vim and Emacs Chat: Part 1: Vim</title>
+      <link>http://devict.org/videos/vim-and-emacs-chat-part-1-vim/</link>
+      <pubDate>Thu, 26 Mar 2015 20:14:26 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/vim-and-emacs-chat-part-1-vim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time Media Manipulation with Pure Data</title>
+      <link>http://devict.org/videos/realtime-media-manipulation-with-pure-data/</link>
+      <pubDate>Thu, 26 Feb 2015 20:37:48 -0600</pubDate>
+      
+      <guid>http://devict.org/videos/realtime-media-manipulation-with-pure-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intelligent GUI Automation with Sikuli</title>
+      <link>http://devict.org/videos/intelligent-gui-automation-with-sikuli/</link>
+      <pubDate>Thu, 29 Jan 2015 22:57:25 -0600</pubDate>
+      
+      <guid>http://devict.org/videos/intelligent-gui-automation-with-sikuli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iPython Notebooks for Cool Kids</title>
+      <link>http://devict.org/videos/ipython-notebooks-for-cool-kids/</link>
+      <pubDate>Thu, 25 Sep 2014 20:43:26 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/ipython-notebooks-for-cool-kids/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Baby Springboards Towards Better Accessibility</title>
+      <link>http://devict.org/videos/baby-springboards-towards-better-accessibility/</link>
+      <pubDate>Thu, 25 Sep 2014 20:14:22 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/baby-springboards-towards-better-accessibility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test Driven Development</title>
+      <link>http://devict.org/videos/test-driven-development/</link>
+      <pubDate>Thu, 28 Aug 2014 20:43:28 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/test-driven-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementing OOP</title>
+      <link>http://devict.org/videos/implementing-oop/</link>
+      <pubDate>Thu, 26 Jun 2014 21:13:18 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/implementing-oop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>devICT - Automating Gimp Using Python</title>
+      <link>http://devict.org/videos/devict--automating-gimp-using-python/</link>
+      <pubDate>Thu, 05 Jun 2014 08:41:49 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/devict--automating-gimp-using-python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JavaScript Web Servers with Express.js</title>
+      <link>http://devict.org/videos/javascript-web-servers-with-expressjs/</link>
+      <pubDate>Thu, 29 May 2014 21:14:34 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/javascript-web-servers-with-expressjs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Build That Phing!</title>
+      <link>http://devict.org/videos/build-that-phing/</link>
+      <pubDate>Thu, 17 Apr 2014 21:08:21 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/build-that-phing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Your Secure Site Isn&#39;t Secure - 6 Ways To Fix It</title>
+      <link>http://devict.org/videos/your-secure-site-isnt-secure--6-ways-to-fix-it/</link>
+      <pubDate>Thu, 17 Apr 2014 19:38:56 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/your-secure-site-isnt-secure--6-ways-to-fix-it/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intro to Haskell: Type Basics</title>
+      <link>http://devict.org/videos/intro-to-haskell-type-basics/</link>
+      <pubDate>Thu, 27 Mar 2014 19:40:44 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/intro-to-haskell-type-basics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CSS Standards and Conventions</title>
+      <link>http://devict.org/videos/css-standards-and-conventions/</link>
+      <pubDate>Thu, 27 Feb 2014 19:50:06 -0600</pubDate>
+      
+      <guid>http://devict.org/videos/css-standards-and-conventions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intro to Vagrant</title>
+      <link>http://devict.org/videos/intro-to-vagrant/</link>
+      <pubDate>Thu, 30 Jan 2014 21:12:56 -0600</pubDate>
+      
+      <guid>http://devict.org/videos/intro-to-vagrant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intro to Grunt.js</title>
+      <link>http://devict.org/videos/intro-to-gruntjs/</link>
+      <pubDate>Thu, 30 Jan 2014 19:01:22 -0600</pubDate>
+      
+      <guid>http://devict.org/videos/intro-to-gruntjs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Realtime Web Apps w/ Sails.js</title>
+      <link>http://devict.org/videos/realtime-web-apps-w-sailsjs/</link>
+      <pubDate>Thu, 21 Nov 2013 21:38:52 -0600</pubDate>
+      
+      <guid>http://devict.org/videos/realtime-web-apps-w-sailsjs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Templating In PHP With Twig</title>
+      <link>http://devict.org/videos/templating-in-php-with-twig/</link>
+      <pubDate>Thu, 21 Nov 2013 19:45:29 -0600</pubDate>
+      
+      <guid>http://devict.org/videos/templating-in-php-with-twig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Socket.io - Binding the front and back-end together with Node.js and Canvas</title>
+      <link>http://devict.org/videos/socketio--binding-the-front-and-backend-together-with-nodejs-and-canvas/</link>
+      <pubDate>Thu, 24 Oct 2013 19:56:19 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/socketio--binding-the-front-and-backend-together-with-nodejs-and-canvas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talkin Sass!</title>
+      <link>http://devict.org/videos/talkin-sass/</link>
+      <pubDate>Thu, 26 Sep 2013 20:40:12 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/talkin-sass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Game Design with C#</title>
+      <link>http://devict.org/videos/game-design-with-c/</link>
+      <pubDate>Thu, 29 Aug 2013 20:22:29 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/game-design-with-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intro to Web Applications with AngularJS</title>
+      <link>http://devict.org/videos/intro-to-web-applications-with-angularjs/</link>
+      <pubDate>Fri, 26 Jul 2013 08:33:07 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/intro-to-web-applications-with-angularjs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Git Part II: The Origin of Master</title>
+      <link>http://devict.org/videos/git-part-ii-the-origin-of-master/</link>
+      <pubDate>Thu, 30 May 2013 20:08:10 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/git-part-ii-the-origin-of-master/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Git: From Init Through Commit</title>
+      <link>http://devict.org/videos/git-from-init-through-commit/</link>
+      <pubDate>Thu, 25 Apr 2013 20:35:32 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/git-from-init-through-commit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regular Expressions 101</title>
+      <link>http://devict.org/videos/regular-expressions-101/</link>
+      <pubDate>Fri, 29 Mar 2013 07:03:33 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/regular-expressions-101/</guid>
       <description></description>
     </item>
     

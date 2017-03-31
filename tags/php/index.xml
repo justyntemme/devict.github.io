@@ -2,11 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Php on devICT</title>
-    <link>http://devict.org/tags/php/index.xml</link>
+    <link>http://devict.org/tags/php/</link>
     <description>Recent content in Php on devICT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://devict.org/tags/php/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Nov 2013 19:45:29 -0600</lastBuildDate>
+    
+	<atom:link href="http://devict.org/tags/php/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Templating In PHP With Twig</title>

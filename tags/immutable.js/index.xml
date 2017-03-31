@@ -2,11 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Immutable.Js on devICT</title>
-    <link>http://devict.org/tags/immutable.js/index.xml</link>
+    <link>http://devict.org/tags/immutable.js/</link>
     <description>Recent content in Immutable.Js on devICT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://devict.org/tags/immutable.js/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Jun 2016 18:30:00 -0600</lastBuildDate>
+    
+	<atom:link href="http://devict.org/tags/immutable.js/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>React Flux and Immutable JS</title>

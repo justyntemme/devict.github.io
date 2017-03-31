@@ -2,11 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sass on devICT</title>
-    <link>http://devict.org/tags/sass/index.xml</link>
+    <link>http://devict.org/tags/sass/</link>
     <description>Recent content in Sass on devICT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://devict.org/tags/sass/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Sep 2013 20:40:12 -0500</lastBuildDate>
+    
+	<atom:link href="http://devict.org/tags/sass/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Talkin Sass!</title>

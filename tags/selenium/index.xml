@@ -2,11 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Selenium on devICT</title>
-    <link>http://devict.org/tags/selenium/index.xml</link>
+    <link>http://devict.org/tags/selenium/</link>
     <description>Recent content in Selenium on devICT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://devict.org/tags/selenium/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Oct 2016 19:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="http://devict.org/tags/selenium/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Web Automation Using Selenium</title>

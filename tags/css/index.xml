@@ -2,11 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Css on devICT</title>
-    <link>http://devict.org/tags/css/index.xml</link>
+    <link>http://devict.org/tags/css/</link>
     <description>Recent content in Css on devICT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://devict.org/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Feb 2014 19:50:06 -0600</lastBuildDate>
+    
+	<atom:link href="http://devict.org/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>CSS Standards and Conventions</title>
