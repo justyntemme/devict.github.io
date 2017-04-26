@@ -6,10 +6,19 @@
     <description>Recent content in Tags on devICT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Mar 2017 19:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 25 Apr 2017 19:00:00 -0500</lastBuildDate>
     
 	<atom:link href="http://devict.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>.Net</title>
+      <link>http://devict.org/tags/.net/</link>
+      <pubDate>Tue, 25 Apr 2017 19:00:00 -0500</pubDate>
+      
+      <guid>http://devict.org/tags/.net/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Accessibility</title>
@@ -239,9 +248,18 @@
     <item>
       <title>Lightning Talks</title>
       <link>http://devict.org/tags/lightning-talks/</link>
-      <pubDate>Thu, 24 Sep 2015 20:47:11 -0500</pubDate>
+      <pubDate>Thu, 25 Feb 2016 20:21:31 -0600</pubDate>
       
       <guid>http://devict.org/tags/lightning-talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>http://devict.org/tags/linux/</link>
+      <pubDate>Tue, 25 Apr 2017 19:00:00 -0500</pubDate>
+      
+      <guid>http://devict.org/tags/linux/</guid>
       <description></description>
     </item>
     
