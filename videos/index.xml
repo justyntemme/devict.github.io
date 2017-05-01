@@ -6,10 +6,19 @@
     <description>Recent content in Videos on devICT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Apr 2017 19:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 27 Apr 2017 19:00:00 -0500</lastBuildDate>
     
 	<atom:link href="http://devict.org/videos/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>April 2017 Lightning Talks</title>
+      <link>http://devict.org/videos/april-2017-lightning-talks/</link>
+      <pubDate>Thu, 27 Apr 2017 19:00:00 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/april-2017-lightning-talks/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Not Your Mama&#39;s ASP.net</title>
