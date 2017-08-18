@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Socket.Io on devICT</title>
+    <title>Socket.io on devICT</title>
     <link>http://devict.org/tags/socket.io/</link>
-    <description>Recent content in Socket.Io on devICT</description>
+    <description>Recent content in Socket.io on devICT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 24 Oct 2013 19:56:19 -0500</lastBuildDate>

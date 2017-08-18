@@ -6,10 +6,19 @@
     <description>Recent content on devICT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Apr 2017 19:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jul 2017 19:00:00 -0500</lastBuildDate>
     
 	<atom:link href="http://devict.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>July 2017 Lightning Talks</title>
+      <link>http://devict.org/videos/2017-07-lightning-talks/</link>
+      <pubDate>Thu, 27 Jul 2017 19:00:00 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/2017-07-lightning-talks/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>April 2017 Lightning Talks</title>
@@ -198,7 +207,7 @@ Study Hall is your opportunity to learn how to code and improve your skills.</de
     </item>
     
     <item>
-      <title>Lightning Talks Sep 15</title>
+      <title>September 2015 Lightning Talks</title>
       <link>http://devict.org/videos/lightning-talks-sep-15/</link>
       <pubDate>Thu, 24 Sep 2015 20:47:11 -0500</pubDate>
       
