@@ -6,10 +6,19 @@
     <description>Recent content on devICT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Jul 2017 19:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 31 Aug 2017 19:00:00 -0500</lastBuildDate>
     
 	<atom:link href="http://devict.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>August 2017 Lightning Talks</title>
+      <link>http://devict.org/videos/august-2017-lightning-talks/</link>
+      <pubDate>Thu, 31 Aug 2017 19:00:00 -0500</pubDate>
+      
+      <guid>http://devict.org/videos/august-2017-lightning-talks/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>July 2017 Lightning Talks</title>

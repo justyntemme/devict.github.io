@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://devict.org/videos/august-2017-lightning-talks/</loc>
+    <lastmod>2017-08-31T19:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://devict.org/videos/2017-07-lightning-talks/</loc>
     <lastmod>2017-07-27T19:00:00-05:00</lastmod>
   </url>
@@ -424,7 +429,7 @@
   
   <url>
     <loc>http://devict.org/tags/lightning-talks/</loc>
-    <lastmod>2017-07-27T19:00:00-05:00</lastmod>
+    <lastmod>2017-08-31T19:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -546,7 +551,7 @@
   
   <url>
     <loc>http://devict.org/videos/</loc>
-    <lastmod>2017-07-27T19:00:00-05:00</lastmod>
+    <lastmod>2017-08-31T19:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -558,7 +563,7 @@
   
   <url>
     <loc>http://devict.org/</loc>
-    <lastmod>2017-07-27T19:00:00-05:00</lastmod>
+    <lastmod>2017-08-31T19:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
